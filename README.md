@@ -1,4 +1,4 @@
-# 🌊 Flood Risk Analysis in Complex Urban Areas using LiDAR and HAND  
+# Flood Risk Analysis in Complex Urban Areas using LiDAR and HAND  
 ### Population Exposure Estimation for Coastal Flood Scenarios in Maré, Rio de Janeiro
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-# 📍 Overview
+#  Overview
 
 This project investigates flood risk and population exposure in densely populated urban communities of **Maré**, located in **Rio de Janeiro, Brazil**, using:
 
@@ -30,7 +30,7 @@ The main objective is to estimate how many people may be affected under differen
 
 ---
 
-# 🛰️ Study Area
+#  Study Area
 
 The analysis focuses on two regions inside the Maré complex:
 
@@ -45,9 +45,9 @@ Both areas are highly urbanized and vulnerable to flooding events due to:
 
 ---
 
-# 🗺️ Analyzed Regions
+#  Analyzed Regions
 
-## 📌 Nova Holanda
+##  Nova Holanda
 
 <p align="center">
   <img src="docs\AreaMareNovaHolandaAnalisada.png" width="90%"> 
@@ -55,7 +55,7 @@ Both areas are highly urbanized and vulnerable to flooding events due to:
 
 ---
 
-## 📌 Timbau
+##  Timbau
 
 <p align="center">
   <img src="docs\AreaMareTimbauAnalisada.png" width="90%">
@@ -63,13 +63,13 @@ Both areas are highly urbanized and vulnerable to flooding events due to:
 
 ---
 
-# ⚙️ Methodology
+#  Methodology
 
 The workflow combines geospatial analysis, remote sensing, and flood modeling techniques.
 
 ---
 
-## 1️⃣ LiDAR Processing
+## 1️ LiDAR Processing
 
 High-resolution LiDAR elevation data was used to generate Digital Elevation Models (DEM), enabling precise terrain analysis in urban environments.
 
@@ -86,7 +86,7 @@ High-resolution LiDAR elevation data was used to generate Digital Elevation Mode
 
 ---
 
-## 2️⃣ HAND Model
+## 2️ HAND Model
 
 The project uses the **HAND (Height Above Nearest Drainage)** methodology to identify terrain susceptibility to flooding.
 
@@ -99,7 +99,7 @@ This approach allows realistic simulation of flood propagation in complex urban 
 
 ---
 
-## 3️⃣ Flood Simulation
+## 3️ Flood Simulation
 
 Different flood levels were simulated progressively.
 
@@ -118,7 +118,7 @@ For each scenario:
 
 ---
 
-## 4️⃣ Population Exposure Estimation
+## 4️ Population Exposure Estimation
 
 Population exposure was estimated using:
 - building footprints
@@ -129,11 +129,11 @@ The methodology estimates the number of people potentially impacted at each floo
 
 ---
 
-# 📊 Results
+#  Results
 
 ---
 
-# 📈 Nova Holanda — Population at Risk
+#  Nova Holanda — Population at Risk
 
 <p align="center">
   <img src="fdocs\AreaMareNovaHolandaAnalisada.png" width="95%">
@@ -146,7 +146,7 @@ The methodology estimates the number of people potentially impacted at each floo
 
 ---
 
-# 📈 Timbau — Population at Risk
+#  Timbau — Population at Risk
 
 <p align="center">
   <img src="docs\MareTimbauFloodRisk.png" width="95%">
@@ -159,7 +159,7 @@ The methodology estimates the number of people potentially impacted at each floo
 
 ---
 
-# 🔬 Technical Pipeline
+#  Technical Pipeline
 
 ```text
 Digital Elevation Model (DEM)
