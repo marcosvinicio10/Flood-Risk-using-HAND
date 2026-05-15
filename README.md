@@ -2,10 +2,6 @@
 ### Population Exposure Estimation for Coastal Flood Scenarios in Maré, Rio de Janeiro
 
 <p align="center">
-  <img src="figures/banner.png" width="100%">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue">
   <img src="https://img.shields.io/badge/QGIS-3.34-green">
   <img src="https://img.shields.io/badge/GeoPandas-Geospatial-success">
@@ -82,7 +78,6 @@ High-resolution LiDAR elevation data was used to generate Digital Elevation Mode
 ### Technologies
 - QGIS
 - GDAL
-- Rasterio
 
 ---
 
@@ -136,7 +131,7 @@ The methodology estimates the number of people potentially impacted at each floo
 #  Nova Holanda — Population at Risk
 
 <p align="center">
-  <img src="fdocs\AreaMareNovaHolandaAnalisada.png" width="95%">
+  <img src="docs\AreaMareNovaHolandaAnalisada.png" width="95%">
 </p>
 
 ### Key Insights
