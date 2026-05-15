@@ -131,7 +131,7 @@ The methodology estimates the number of people potentially impacted at each floo
 #  Nova Holanda — Population at Risk
 
 <p align="center">
-  <img src="docs\AreaMareNovaHolandaAnalisada.png" width="95%">
+  <img src="docs\MareNovaHolandaFloodRisk.png" width="95%">
 </p>
 
 ### Key Insights
