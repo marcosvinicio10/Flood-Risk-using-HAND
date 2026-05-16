@@ -1,4 +1,4 @@
-# Flood Risk Analysis in Complex Urban Areas using HAND  
+# Flood Risk Analysis in Urban Areas using HAND  
 ### Population Exposure Estimation for Coastal Flood Scenarios in Maré, Rio de Janeiro
 
 <p align="center">
